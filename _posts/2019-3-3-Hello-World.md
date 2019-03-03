@@ -3,7 +3,6 @@ layout: post
 title: Hello World
 ---
 
-{% highlight cpp lineno %}
 ```
 #include <iostream>
 
@@ -13,5 +12,5 @@ int main(int argc,const char *argv[])
 	return 0;
 }
 
-{% endhighlight %}
+
 ```
