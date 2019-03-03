@@ -4,6 +4,7 @@ title: Hello World
 ---
 
 {% highlight cpp lineno %}
+```
 #include <iostream>
 
 int main(int argc,const char *argv[])
@@ -13,3 +14,4 @@ int main(int argc,const char *argv[])
 }
 
 {% endhighlight %}
+```
