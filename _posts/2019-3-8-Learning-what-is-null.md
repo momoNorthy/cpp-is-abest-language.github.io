@@ -9,10 +9,10 @@ namespace std
   #else
   #define NULL 0
   #endif
-  #define DEFINED_NULL.
+  #define DEFINED_NULL
+  #endif
 ```
-###### 
-所以，在main.cpp中，写如下代码：
+######  所以，在main.cpp中，写如下代码：
 ```
 #include<iostream>
 void fool(int*a){std::cout<<"int ptr"<<std::endl;}
